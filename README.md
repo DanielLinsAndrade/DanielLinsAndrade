@@ -1,62 +1,111 @@
+<div align="center">
+
 # Daniel Andrade
 
-Software Engineering student focused on building practical, well-structured software, with particular interest in **backend development, data and artificial intelligence**.
+### Software Engineering · Backend · Data & AI
 
-I enjoy turning real problems into maintainable applications, exploring everything from software architecture and cloud infrastructure to machine learning and data-driven systems.
+<img src="https://img.shields.io/badge/Software%20Engineering-Final%20Semester-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Graduation-Feb%202027-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Engineering-8250DF?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20%26%20AI-Machine%20Learning-D29922?style=flat-square" />
+
+</div>
+
+<br>
+
+I build practical software with a focus on **backend engineering, data and artificial intelligence**, exploring the entire path from architecture and infrastructure to implementation and user experience.
+
+Currently finishing my Software Engineering degree while building and refining personal software projects.
+
+---
 
 ## About me
 
-- Software Engineering student, graduating in 2027
-- Interested in Backend Engineering, Data Science and Machine Learning
-- Experience with desktop, web and data-driven applications
-- Interested in software architecture, cloud computing and Explainable AI
-- Constantly building personal projects to explore new technologies and engineering practices
+- Final-semester **Software Engineering** student, graduating in February 2027
+- Experience building **desktop, web and data-driven applications**
+- Exploring **software architecture, cloud infrastructure, Machine Learning and Explainable AI**
+
+---
 
 ## Tech stack
 
-**Languages**
+<div align="center">
 
-Python · TypeScript · JavaScript · SQL · Java · C
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,django,flask,postgres,docker,aws,git,github,linux&perline=13" />
 
-**Backend**
+</div>
 
-Django · Flask · REST APIs
+<br>
 
-**Data & AI**
+<div align="center">
 
-Pandas · NumPy · Scikit-learn · TensorFlow · Keras · SHAP · LIME
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Databases & Infrastructure**
+</div>
 
-PostgreSQL · AWS · Docker
+---
 
-**Tools**
+## Engineering focus
 
-Git · GitHub · Linux
+<div align="center">
+
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0D1117?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-0D1117?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge)
+
+</div>
+
+---
 
 ## Featured project
 
-### Dinheirovisky.
+<table>
+<tr>
+<td width="100%">
 
-Personal finance management software designed to bring accounts, transactions, credit cards, commitments and financial planning into a clear and practical interface.
+### [Dinheirovisky.](https://github.com/DanielLinsAndrade/dinheirovisky)
 
-Built with a strong focus on usability, information density and local-first personal finance management.
+**Personal finance management software** built to provide a clear and practical view of accounts, transactions, credit cards, financial commitments and planning.
 
-> Seu bolso agradece.
+Designed with an emphasis on **usability, information density and a cohesive desktop experience**.
 
-## Areas of interest
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Personal Finance](https://img.shields.io/badge/Personal%20Finance-238636?style=flat-square)
+![Active Development](https://img.shields.io/badge/Status-Active%20Development-D29922?style=flat-square)
 
-- Backend Engineering
-- Software Architecture
-- Data Science
-- Machine Learning
-- Explainable AI
-- Cloud Computing
+**Seu bolso agradece.**
 
-## Currently
+[View repository →](https://github.com/DanielLinsAndrade/dinheirovisky)
 
-Finishing my Software Engineering degree while continuing to develop and improve personal software projects.
+</td>
+</tr>
+</table>
 
-## Contact
+---
 
-You can reach me through the social links available on my GitHub profile.
+## GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielLinsAndrade&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLinsAndrade&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building software that turns practical problems into maintainable systems.
+
+</div>
