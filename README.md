@@ -1,6 +1,5 @@
-<div align="left">
-
 # Daniel Andrade
+<div align="left">
 
 ![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge)
 ![Data & AI](https://img.shields.io/badge/Data%20%26%20AI-111827?style=for-the-badge)
