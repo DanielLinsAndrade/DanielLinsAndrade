@@ -41,12 +41,12 @@ I'm a Software Engineering student who enjoys turning ideas into useful software
 <img
   src="https://github-stats-extended.vercel.app/api?username=DanielLinsAndrade&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&custom_title=Daniel%20Andrade%20Status"
   alt="GitHub Stats"
-  height="190"
+  height="170"
 />
 &nbsp;
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielLinsAndrade&layout=compact&langs_count=8&theme=catppuccin_mocha&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5&card_width=440"
-  height="190"
+  height="170"
 />
 
 </div>
