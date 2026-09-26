@@ -4,34 +4,50 @@
 
 ### Software Engineering · Backend · Data & AI
 
-<img src="https://img.shields.io/badge/Software%20Engineering-Final%20Semester-2F81F7?style=flat-square" />
-<img src="https://img.shields.io/badge/Graduation-Feb%202027-238636?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-Engineering-8250DF?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20%26%20AI-Machine%20Learning-D29922?style=flat-square" />
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge)
+![Data & AI](https://img.shields.io/badge/Data%20%26%20AI-111827?style=for-the-badge)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-111827?style=for-the-badge)
 
 </div>
 
-<br>
+<div align="center">
 
-I build practical software with a focus on **backend engineering, data and artificial intelligence**, exploring the entire path from architecture and infrastructure to implementation and user experience.
+<img
+  src="https://github-stats-extended.vercel.app/api?username=DanielLinsAndrade&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark_dimmed&custom_title=GitHub%20Activity"
+  height="190"
+/>
+&nbsp;
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielLinsAndrade&layout=compact&langs_count=8&theme=github_dark_dimmed&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5&card_width=440"
+  height="190"
+/>
 
-Currently finishing my Software Engineering degree while building and refining personal software projects.
+</div>
+
+---
+
+I build practical and maintainable software, with a focus on **backend engineering, data-driven systems and artificial intelligence**.
+
+I enjoy working across the development process, from software architecture and data modeling to implementation and deployment.
 
 ---
 
 ## About me
 
-- Final-semester **Software Engineering** student, graduating in February 2027
-- Experience building **desktop, web and data-driven applications**
-- Exploring **software architecture, cloud infrastructure, Machine Learning and Explainable AI**
+- Software Engineering student
+- Focused on **Backend Engineering** and **Data & AI**
+- Experience building desktop, web and data-driven applications
+- Interested in scalable architecture, cloud infrastructure and machine learning
 
 ---
 
-## Tech stack
+## Core stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,django,flask,postgres,docker,aws,git,github,linux&perline=13" />
+<img
+  src="https://skillicons.dev/icons?i=python,ts,django,flask,postgres,docker,aws,git&theme=dark"
+/>
 
 </div>
 
@@ -45,62 +61,56 @@ Currently finishing my Software Engineering degree while building and refining p
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </div>
 
----
+<details>
 
-## Engineering focus
+<summary><b>Other technologies I've worked with</b></summary>
 
-<div align="center">
+<br>
 
-![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge)
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0D1117?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-0D1117?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge)
+Java · C · JavaScript · TensorFlow · Keras · Scikit-learn · SHAP · LIME · Linux
 
-</div>
+</details>
 
 ---
 
 ## Featured project
 
-<table>
+<table align="center" width="82%">
 <tr>
-<td width="100%">
+
+<td width="24%" align="center" valign="middle">
+
+<a href="https://github.com/DanielLinsAndrade/dinheirovisky">
+  <img
+    src="https://raw.githubusercontent.com/DanielLinsAndrade/dinheirovisky/refs/heads/main/public/brand/symbol-light.svg"
+    alt="Dinheirovisky."
+    width="180"
+  />
+</a>
+
+</td>
+
+<td width="76%" valign="middle">
 
 ### [Dinheirovisky.](https://github.com/DanielLinsAndrade/dinheirovisky)
 
-**Personal finance management software** built to provide a clear and practical view of accounts, transactions, credit cards, financial commitments and planning.
-
-Designed with an emphasis on **usability, information density and a cohesive desktop experience**.
+Personal finance management software for **accounts, transactions, credit cards, commitments and financial planning**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Personal Finance](https://img.shields.io/badge/Personal%20Finance-238636?style=flat-square)
 ![Active Development](https://img.shields.io/badge/Status-Active%20Development-D29922?style=flat-square)
 
-**Seu bolso agradece.**
-
-[View repository →](https://github.com/DanielLinsAndrade/dinheirovisky)
+**Seu bolso agradece.** · [View repository →](https://github.com/DanielLinsAndrade/dinheirovisky)
 
 </td>
+
 </tr>
 </table>
-
----
-
-## GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielLinsAndrade&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLinsAndrade&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
 
 ---
 
