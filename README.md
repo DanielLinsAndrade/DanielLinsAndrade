@@ -1,49 +1,18 @@
-<div align="center">
+<div align="left">
 
 # Daniel Andrade
 
-### Software Engineering · Backend · Data & AI
-
 ![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge)
 ![Data & AI](https://img.shields.io/badge/Data%20%26%20AI-111827?style=for-the-badge)
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-111827?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge)
+
+I'm a Software Engineering student who enjoys turning ideas into useful software. I mainly work with backend development, data and AI, with a strong interest in software architecture and building well-structured systems. I like solving real problems and learning by creating projects that are actually useful.
 
 </div>
 
-<div align="center">
+## Core Technologies
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=DanielLinsAndrade&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark_dimmed&custom_title=GitHub%20Activity"
-  height="190"
-/>
-&nbsp;
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielLinsAndrade&layout=compact&langs_count=8&theme=github_dark_dimmed&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5&card_width=440"
-  height="190"
-/>
-
-</div>
-
----
-
-I build practical and maintainable software, with a focus on **backend engineering, data-driven systems and artificial intelligence**.
-
-I enjoy working across the development process, from software architecture and data modeling to implementation and deployment.
-
----
-
-## About me
-
-- Software Engineering student
-- Focused on **Backend Engineering** and **Data & AI**
-- Experience building desktop, web and data-driven applications
-- Interested in scalable architecture, cloud infrastructure and machine learning
-
----
-
-## Core stack
-
-<div align="center">
+<div align="left">
 
 <img
   src="https://skillicons.dev/icons?i=python,ts,django,flask,postgres,docker,aws,git&theme=dark"
@@ -53,7 +22,7 @@ I enjoy working across the development process, from software architecture and d
 
 <br>
 
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -66,17 +35,42 @@ I enjoy working across the development process, from software architecture and d
 
 </div>
 
-<details>
+## Statistics
 
+<div align="left">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=DanielLinsAndrade&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&custom_title=Daniel%20Andrade%20Status"
+  alt="GitHub Stats"
+  height="190"
+/>
+&nbsp;
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielLinsAndrade&layout=compact&langs_count=8&theme=catppuccin_mocha&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5&card_width=440"
+  height="190"
+/>
+
+</div>
+
+
+<details>
 <summary><b>Other technologies I've worked with</b></summary>
 
 <br>
 
-Java · C · JavaScript · TensorFlow · Keras · Scikit-learn · SHAP · LIME · Linux
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="34" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="34" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="34" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="34" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="34" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="34" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="34" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SHAP-XAI-111827?style=flat-square" alt="SHAP" />&nbsp;
+  <img src="https://img.shields.io/badge/LIME-XAI-111827?style=flat-square" alt="LIME" />
+</p>
 
 </details>
-
----
 
 ## Featured project
 
